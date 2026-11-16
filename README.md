@@ -11,11 +11,6 @@ Trabalho com TI há mais de 3 anos, atendendo usuários e resolvendo problemas d
 
 No trabalho, crio ferramentas que ajudam a equipe de suporte no dia a dia. Agora estou migrando para o desenvolvimento de software.
 
-- 🔭 Construindo meu TCC, uma plataforma web em Next.js e TypeScript
-- 🎨 Faço o design de interface (UI/UX) dos projetos em grupo da faculdade
-- ⚙️ Já automatizei processos com n8n e Make
-- 🎯 Buscando oportunidade júnior ou trainee em desenvolvimento
-
 ### Tecnologias
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -45,9 +40,6 @@ No trabalho, crio ferramentas que ajudam a equipe de suporte no dia a dia. Agora
 
 **[GAAPO](https://github.com/JaoPedr0o/gaapo)**: site e painel para uma ONG de adoção de animais.
 `Figma` `Next.js` `TypeScript`
-
-**[Produtos e Categorias](https://github.com/bruno02034/Atividade-topicos)**: sistema de cadastro com login e upload de imagens.
-`PHP` `Laravel`
 
 ### Trajetória
 
